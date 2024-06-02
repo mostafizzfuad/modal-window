@@ -72,6 +72,14 @@ body {
     cursor: pointer;
 }
 
+.close {
+    background-color: rgb(143, 3, 3);
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 5px;
+
+}
+
 .modal h2 {
     margin-top: 2rem;
     font-size: 2rem;
